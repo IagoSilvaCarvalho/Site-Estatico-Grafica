@@ -1,0 +1,28 @@
+{
+  "name": "lovt-1121cdfspcm25bred",
+  "version": "1.0.0",
+  "description": "Project of Digital House Class 1121CDFSPCM25BRED cloning lovt page with html, css and express.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wendelcutrim/lovt-1121CDFSPCM25BRED.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wendelcutrim/lovt-1121CDFSPCM25BRED/issues"
+  },
+  "homepage": "https://github.com/wendelcutrim/lovt-1121CDFSPCM25BRED#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
