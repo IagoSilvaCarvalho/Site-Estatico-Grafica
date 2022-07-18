@@ -1,1 +1,1 @@
-Projeto pessoal
+Projeto apenas em HTML e CSS
